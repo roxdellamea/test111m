@@ -5,5 +5,7 @@ funcion getUser(id:entero):string
   line code 2
   line code 3
   line code 4
+  
+  line code 6
 
 fin_funcion
