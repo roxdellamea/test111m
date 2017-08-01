@@ -1,0 +1,8 @@
+//esto lo usamos para hacer una prueba
+
+funcion getUser(id:entero):string
+  line code 1
+  line code 2
+  line code 3
+
+fin_funcion
